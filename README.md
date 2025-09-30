@@ -26,6 +26,7 @@ Dalam mengerjakan tugas ini, saya menggunakan bantuan AI yaitu Gemini. Saya memb
  
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself. 
+
 Answer:
 Saya mengerjakan tugas ini secara mandiri tanpa ada kolaborasi dengan orang lain. Semua proses belajar, mencoba kode, dan menyesuaikan hasil saya lakukan sendiri dengan bantuan referensi dan AI.
 
